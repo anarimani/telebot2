@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: telebot2
+Version: 1.0.0
+Summary: A custom telebot package for Bale messenger API integration
+Author: Armin Narimani
+Author-email: a.narimani1998@gmail.com
+Requires-Dist: requests
